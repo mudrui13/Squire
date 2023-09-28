@@ -1,0 +1,9 @@
+/.allure
+/.gradle
+/.idea
+/build
+/data
+/gradlew.bat
+/gradlew
+/src/test/java/filesToRead/*
+
